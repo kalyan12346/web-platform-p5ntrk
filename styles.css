@@ -1,0 +1,19 @@
+body {
+  font-family: 'Nunito', sans-serif;
+}
+.header {
+  margin-bottom: 30px;
+}
+
+.content {
+  padding: 30px;
+}
+.header {
+  background-color: #0c2340;
+  color: #ffffff;
+}
+@media only screen and (max-width: 768px) {
+  .header {
+    text-align: center;
+  }
+}
